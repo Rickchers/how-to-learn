@@ -329,3 +329,7 @@ h1, h2, h3, section, div, .table>* {
   text-decoration: none;
   color: white;
 }
+
+.footer__social-icon {
+  margin-right: 10px;
+}
